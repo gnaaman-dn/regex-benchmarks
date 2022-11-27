@@ -1,0 +1,2 @@
+import bench
+bench.benchmark()
